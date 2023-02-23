@@ -1,10 +1,10 @@
 
-function Profile() {
+function Upload() {
     return (
         <div>
-            Profile page
+            Upload page
         </div>
     );
 }
 
-export default Profile;
+export default Upload;

@@ -1,10 +1,10 @@
 
-function Home() {
+function Profile() {
     return (
         <div>
-            Home page
+            Profile page
         </div>
     );
 }
 
-export default Home;
+export default Profile;

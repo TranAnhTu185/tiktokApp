@@ -1,10 +1,10 @@
 
-function Home(props) {
+function Following() {
     return (
         <div>
-            Home page
+            Following page
         </div>
     );
 }
 
-export default Home;
+export default Following;

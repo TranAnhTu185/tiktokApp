@@ -1,10 +1,10 @@
 
-function Home() {
+function Search() {
     return (
-        <div>
-            Home page
-        </div>
+        <h2>
+            Search page
+        </h2>
     );
 }
 
-export default Home;
+export default Search;
