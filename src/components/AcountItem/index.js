@@ -10,7 +10,7 @@ function AcountItem() {
     return (
         <div className={cx('wrapper')}>
             <img
-                src="https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/cfac997a41fa416c4e38f3000b8bb48c~c5_100x100.jpeg?x-expires=1657821600&x-signature=yBBP60FrqD2cHJh8qs9t8niky08%3D"
+                src="https://static-images.vnncdn.net/files/publish/2022/9/3/bien-vo-cuc-thai-binh-346.jpeg"
                 alt="Hoa"
                 className={cx('avatar')}
             />
@@ -19,7 +19,7 @@ function AcountItem() {
                     <span>Nguyễn Văn A</span>
                     <FontAwesomeIcon className={cx('check-name')} icon={faCheckCircle}/>
                 </h4>
-                <p className={cx('username')}>Nguyễn Văn A</p>
+                <p className={cx('username')}>nguyenvana</p>
             </div>
         </div>
     );
